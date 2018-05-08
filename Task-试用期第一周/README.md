@@ -29,4 +29,4 @@
 ![TIM群聊截图](http://static.zybuluo.com/Mark201802/488ksjdz7g2zl3lhwt9uhl42/image_1ccvmcgornvb1r9v12v2rmfnbe20.png)
 切图+写结构(HTML)+写样式(CSS)
 
-2. 
+- 学会简单的psd样图提取素材
