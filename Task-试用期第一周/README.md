@@ -20,6 +20,11 @@
 
 1. 建立工程文件
 
+- 首先遇到了一点困难，就是不知道如何一下子生成HTML文件的前面的部分
+
+![CSDN文档](http://static.zybuluo.com/Mark201802/0ouhppmltzzqd0pv812qpy11/image_1cd21nrd8hhv1eh61egl1phr127op.png)
+
+-  
 
 ---
 
