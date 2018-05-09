@@ -24,7 +24,13 @@
 
 ![CSDN文档](http://static.zybuluo.com/Mark201802/0ouhppmltzzqd0pv812qpy11/image_1cd21nrd8hhv1eh61egl1phr127op.png)
 
--  
+-  看完视频之后跟着操作了一下
+
+![try0](http://static.zybuluo.com/Mark201802/y25sicw6l547turl862l7215/image_1cd25l4n81tjq1bb47671tpl18u1j.png)
+
+![try1](http://static.zybuluo.com/Mark201802/mqvl6mv6f3vvzj6pkzofgdnf/image_1cd25n6i71i2gf2h13inij813uo20.png)
+
+![try2](http://static.zybuluo.com/Mark201802/t1b3qxvm92qozj63l13qsy20/image_1cd25og0uak2csi83e4bkg632d.png)
 
 ---
 
@@ -37,6 +43,15 @@
 切图+写结构(HTML)+写样式(CSS)
 
 - 学会简单的psd样图提取素材
+
+[我自己找的教程](https://jingyan.baidu.com/article/c35dbcb0f9565c8916fcbca4.html)
+
+![教程截图](http://static.zybuluo.com/Mark201802/506ps2ehht4bywknrdoyaifs/image_1cd26ddihgre7lv10ku18m7vrg2q.png)
+
+然后上手操作的时候(真令人头大)
+
+![真令人头大](http://static.zybuluo.com/Mark201802/o9dh8hpuozhjpakhm9571kp2/image_1cd26g3tud3p1kr816sc17lu16ms37.png)
+
 
 
 - 整合到自己的网页中
