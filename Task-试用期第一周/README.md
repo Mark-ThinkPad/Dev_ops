@@ -52,6 +52,11 @@
 
 ![真令人头大](http://static.zybuluo.com/Mark201802/o9dh8hpuozhjpakhm9571kp2/image_1cd26g3tud3p1kr816sc17lu16ms37.png)
 
+于是不选择这个方案，问组长别的方法
+
+![聊天截图0](http://static.zybuluo.com/Mark201802/d2hikmcofwt2uvyp5m4z8a2q/image_1cd2jihfmevl1vreb1gon5rns9.png)
+
+![聊天截图1](http://static.zybuluo.com/Mark201802/2m5e8ewyg638ud2nrojhdeyk/image_1cd2jn9fi8ir1oscng973o9bf13.png)
 
 
 - 整合到自己的网页中
