@@ -97,3 +97,5 @@
 ![教程截图1](http://static.zybuluo.com/Mark201802/bb0m1n9wpo8c71nrjxsyu3mu/image_1cd48gt1gp3419ov1aqt112t1gs816.png)
 
 emmm，怎么说呢，学的过程比较紧促，刚看完的时候感觉心里没底
+
+3. 重点是做网页，emmmmm，我会尽力的
