@@ -107,9 +107,12 @@
 emmm，怎么说呢，学的过程比较紧促，刚看完的时候感觉心里没底
 
 3. 重点是做网页<font color="dc143c">(**首先是感谢本组两位有网页制作功底的同学对我的大力帮助，名字就不透露了**)</font>(另外参考了此网站的源码)
+<font color="dc143c">**我先强调一下这个网页是未完成状态，你们可以发现中间的新闻页其实是一张截图**</font>
 
 在做网页的过程中查找的资料：[li列表横向排列](https://jingyan.baidu.com/article/fa4125accd4eec28ac7092f2.html)
 
 [横向导航栏教程1](https://jingyan.baidu.com/article/b24f6c821d4f8e86bfe5daf9.html)
 
 [横向导航栏教程2](https://jingyan.baidu.com/article/1612d500a82696e20e1eee1b.html)
+
+4. 最新进度的网页请在[我的工程文件夹](https://github.com/Mark-ThinkPad/Dev_ops/tree/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC%E4%B8%80%E5%91%A8/index)查收
