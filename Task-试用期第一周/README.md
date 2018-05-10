@@ -32,6 +32,8 @@
 
 ![try2](http://static.zybuluo.com/Mark201802/t1b3qxvm92qozj63l13qsy20/image_1cd25og0uak2csi83e4bkg632d.png)
 
+
+2.
 ---
 
 ### 关于本周任务
@@ -65,4 +67,10 @@
 2. 我把之前在慕课网找到的HTML+CSS教程过了一遍
 [教程网址](https://www.imooc.com/learn/9)
 
-![教程截图](http://static.zybuluo.com/Mark201802/uaw7i4yuv0fdwobrp9r6qj5n/image_1cd47fh0annsan316db6tkicv9.png)
+![教程截图0](http://static.zybuluo.com/Mark201802/uaw7i4yuv0fdwobrp9r6qj5n/image_1cd47fh0annsan316db6tkicv9.png)
+
+另外还找到一个[从psd到html](https://www.imooc.com/learn/668)的教程
+
+![教程截图1](http://static.zybuluo.com/Mark201802/bb0m1n9wpo8c71nrjxsyu3mu/image_1cd48gt1gp3419ov1aqt112t1gs816.png)
+
+emmm，怎么说呢，学的过程比较紧促，刚看完的时候感觉心里没底
