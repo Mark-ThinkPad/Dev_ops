@@ -15,16 +15,17 @@
 }
 .h1{
     top: 37%;
-    left: 46%;
+    left: 45%;
     color: #FFF;
     font-family: STZhongsong;
     font-weight: bold;
     font-size: 1.3em;
     position: absolute;
 }
+
 .guide ul{
     display: inline-block;
-    margin-left: 10.9%;
+    margin-left: 10.5%;
 }
 .guide li{
     float: left;
