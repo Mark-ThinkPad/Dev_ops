@@ -33,7 +33,25 @@
 ![try2](http://static.zybuluo.com/Mark201802/t1b3qxvm92qozj63l13qsy20/image_1cd25og0uak2csi83e4bkg632d.png)
 
 
-2.
+2. 首先是关于盒模型
+**教程中老师形象的比喻为一盒精美包装的高档月饼。**
+
+比如我们找个网页实际的看一下
+![盒模型0]( http://static.zybuluo.com/Mark201802/wapomi3gxpjgwuwhmxaj740t/image_1cd490vjptc5e7s1iobk361rgt1j.png)
+
+内容(content)、填充或内边距(padding)、边框(border)、边界或外边距(margin)
+
+另外我找了一些其他的文章[简书：谈谈我对盒模型的理解](https://www.jianshu.com/p/2353c364318b)
+
+- 其次是关于CSS绝对定位和相对定位
+
+在做教程的时候还是有点懵，于是请教了一下CSDN的几篇文章:[文章一](https://blog.csdn.net/liaohao6/article/details/53760937)，[文章二](https://blog.csdn.net/gengbaolong/article/details/71023598)， [文章三](https://blog.csdn.net/cyyax/article/details/50607066)
+
+> 那么总结并简单的描述一下就是：相对定位是相对于自己原来的位置偏移，但是仍然占用原来的位置；而绝对定位是相对于父元素偏移，而且不占用原来的位置。其实从实际效果上来讲，绝对定位更接近“相对”的意思
+
+3. 关于处理兼容性
+
+
 ---
 
 ### 关于本周任务
@@ -61,7 +79,7 @@
 ![聊天截图1](http://static.zybuluo.com/Mark201802/2m5e8ewyg638ud2nrojhdeyk/image_1cd2jn9fi8ir1oscng973o9bf13.png)
 
 
-- 整合到自己的网页中
+- 最后我选用的抠图方法
 
 
 2. 我把之前在慕课网找到的HTML+CSS教程过了一遍
