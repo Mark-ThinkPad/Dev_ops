@@ -23,11 +23,6 @@
     position: absolute;
 }
 .guide ul{
-    text-align: center;
-    top: 0;
-}
-
-.guide ul {
     display: inline-block;
     margin-left: 10.9%;
 }
