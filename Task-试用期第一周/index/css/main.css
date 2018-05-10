@@ -1,9 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 .header{
     text-align: center;
     position: relative;
-    margin-bottom: 0px;
-    border-bottom: 0px;
-    padding-bottom: 0px;
+    margin-bottom: -4px;
 }
 .logo{
     position: absolute;
@@ -11,7 +14,7 @@
     left: 12%;
 }
 .h1{
-    top: 25%;
+    top: 37%;
     left: 46%;
     color: #FFF;
     font-family: STZhongsong;
@@ -19,22 +22,27 @@
     font-size: 1.3em;
     position: absolute;
 }
-.guide ul li{
+.guide ul{
+    text-align: center;
+    top: 0;
+}
+
+.guide ul {
+    display: inline-block;
+    margin-left: 10.9%;
+}
+.guide li{
     float: left;
     list-style: none;
-    margin: 0;
-    border: 0;
-    padding: 0;
-    
 }
-.guide ul li a{
-    display: block;
+.guide a{
+    display: inline-block;
     top: 0;
-    width: 178px;
-    height: 40px;
+    width: 178.8px;
+    height: 50px;
     text-align: center;
     color: #FFF;
-    line-height: 40px;
+    line-height: 50px;
     background-color: #006986;
     text-decoration: none;
 }
