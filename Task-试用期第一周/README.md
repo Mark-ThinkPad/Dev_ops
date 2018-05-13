@@ -11,8 +11,8 @@
 ![安装界面](http://static.zybuluo.com/Mark201802/gdomt3stny0ps6tshyygz0c1/image_1ccvkudu59id1mpc11eu1f0tbdn16.png)
 ![第一次进入软件](http://static.zybuluo.com/Mark201802/otlmxzhrkm0p640toofti9zf/image_1cd072scg20e1hlla3b1ll4p039.png)
 
-2. 选用editor(我采用的是跨平台而且免费开源的微软VS Code)
-![编辑文档实况](http://static.zybuluo.com/Mark201802/rpey1xzs3rmny8bga3axa0yj/image_1cd0762c6hec1qrp17cut8q1648m.png)
+![编辑文档实况]
+2. 选用editor(我采用的是跨平台而且免费开源的微软VS Code)(http://static.zybuluo.com/Mark201802/rpey1xzs3rmny8bga3axa0yj/image_1cd0762c6hec1qrp17cut8q1648m.png)
 
 ---
 

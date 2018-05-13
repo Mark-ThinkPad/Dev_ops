@@ -1,19 +1,23 @@
-*{
-    margin: 0;
-    padding: 0;
-    border: 0;
+.container{
+    margin-left: auto;
+    margin-right: auto;
 }
-.header{
-    text-align: center;
-    position: relative;
-    margin-bottom: -4px;
+.header-container {
+    background: #0384A8 url(/images/head.jpg) no-repeat top;
+    height: 220px;
+}
+.header {
+    background: url(/images/logo.jpg) no-repeat;
+    height: 220px;
+    padding-left: 520px;
+    padding-top: 70px;
 }
 .logo{
     position: absolute;
     top: 0px;
     left: 12%;
 }
-.h1{
+.header h1{
     top: 37%;
     left: 45%;
     color: #FFF;
@@ -24,17 +28,12 @@
 }
 
 .guide ul{
-    display: inline-block;
-    margin-left: 10.5%;
+    display: table;
+    width: 1252px;
+    margin: 0 auto;
 }
-.guide li{
-    float: left;
-    list-style: none;
-}
+ 
 .guide a{
-    display: inline-block;
-    top: 0;
-    width: 178.8px;
     height: 50px;
     text-align: center;
     color: #FFF;
@@ -43,9 +42,7 @@
     text-decoration: none;
 }
 
-.picture{
-    text-align: center;
-}
+
 
 .end{
     background-color:  #006986;
