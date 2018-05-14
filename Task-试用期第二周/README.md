@@ -12,7 +12,7 @@
 
 在慕课网上找到一个位置比较靠前的免费教程：[Tony的Linux教程0](https://www.imooc.com/learn/175), [Tony的Linux教程1](https://www.imooc.com/learn/111) (PS:不能像上个星期那样突击学习了，效果不好，把内容动态的分配到每天，这样效果好一些)
 
-2. 关于任务说明
+2. 关于任务说明 &　任务
 
 - 首先证明我用的是虚拟机(其实我有一台学生特惠的阿里云的windows服务器，目前用来挂机器人了)
 
@@ -49,3 +49,13 @@
 ![P2](http://static.zybuluo.com/Mark201802/bwlulktkcwblhggcdac7tyo2/image_1cdeag51c193t10b1qvq27mnl071.png)
 
 ![P3](http://static.zybuluo.com/Mark201802/2ptfpr6qwml42vw7vegod1yv/image_1cdealnv2fhsqm41ju5gg41tae8b.png)
+
+3. 创建/var/www/ops并修改Apache服务器的根目录到这里
+
+![创建](http://static.zybuluo.com/Mark201802/0yaebsqu23si1w0oz2n1iqqz/image_1cdes485qi9eiut6ooi9fkt59.png)
+
+![修改根目录](http://static.zybuluo.com/Mark201802/8rge1mojjddlchw00ggd9cq6/image_1cdet7f801n8g1nnd6ol17iq1t4c1m.png)
+
+4. 把自己上周写的网站放上去
+
+![命令行截图]()
