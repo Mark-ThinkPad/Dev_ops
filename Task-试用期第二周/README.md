@@ -60,9 +60,14 @@
 
 ![效果图](http://static.zybuluo.com/Mark201802/4tsum1b5pzbceunlh7bjhuvt/image_1cdfhr9vkghj17521auhqqj1vne9.png)
 
-5. 参考教程：[修改根目录](https://www.osyunwei.com/archives/789.html), [搭建LAMP](http://www.jb51.net/os/188488.html), [修改服务器端口](https://zhidao.baidu.com/question/6966481.html), [安装MariaDB](https://jingyan.baidu.com/article/25648fc182a7a99191fd0096.html), [使用清华大学的源快速下载安装MariaDB](https://blog.csdn.net/zh237560547/article/details/74783513)
+5. 参考教程：[修改根目录](https://www.osyunwei.com/archives/789.html), [搭建LAMP](http://www.jb51.net/os/188488.html), [修改服务器端口](https://zhidao.baidu.com/question/6966481.html), [安装MariaDB](https://jingyan.baidu.com/article/25648fc182a7a99191fd0096.html), [使用清华大学的源快速下载安装MariaDB](https://blog.csdn.net/zh237560547/article/details/74783513), [配置Lamp](https://blog.csdn.net/qq_20948497/article/details/78451783)
 
-!!!进度提示，Lamp的下载工作已经完成，请尽快该文档的编写者尽快把配置的工作完成
+6. 部分效果图
+
+![php](http://static.zybuluo.com/Mark201802/xnuo4b7t3xtej5349sh8rzyo/image_1cdgtgd9c18dpoats3k9511ogt9.png)
+
+![apache](http://static.zybuluo.com/Mark201802/ifxrs05evopwae864hyk37lm/image_1cdgthrsvepb122l1omc19sm12q7m.png)
+
 ---
 
 2. 遇到的问题
