@@ -72,6 +72,8 @@
 
 [脚本参考教程](https://blog.csdn.net/alanzjl/article/details/50715870), [作者的github库](https://github.com/alanzjl/MyConsoleTools)
 
+![给学长学姐看看效果图](http://static.zybuluo.com/Mark201802/s3qoru2ua25p32ilbbw5ec3b/image_1cdiab8ra1ff910lt3rl1hht9n49.png)
+
 ---
 
 2. 遇到的问题
