@@ -26,7 +26,7 @@
 
 ![Final Shell](http://static.zybuluo.com/Mark201802/wi1yneytrfyqe1j86nq3mga8/image_1cde7siul1gbj1n1rfnvjkm81n33.png)
 
-- 使用Apache搭建Web服务器
+- 搭建Lamp
 
 1. 先手动修改一下yum源
 
@@ -67,6 +67,8 @@
 ![php](http://static.zybuluo.com/Mark201802/xnuo4b7t3xtej5349sh8rzyo/image_1cdgtgd9c18dpoats3k9511ogt9.png)
 
 ![apache](http://static.zybuluo.com/Mark201802/ifxrs05evopwae864hyk37lm/image_1cdgthrsvepb122l1omc19sm12q7m.png)
+
+- 写(找)一个能够自动上传到github的脚本(为什么是找啊......因为我对脚本语言一无所知，所以还得找视频教程学学脚本语言,[教程0](https://space.bilibili.com/267262953/#/),[教程1](https://www.bilibili.com/video/av21816585?from=search&seid=1131567582177017051),[教程2](https://www.imooc.com/u/279399/courses?sort=publish))
 
 ---
 
