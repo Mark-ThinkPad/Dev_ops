@@ -70,6 +70,8 @@
 
 - 写(找)一个能够自动上传到github的脚本(为什么是找啊......因为我对脚本语言一无所知，所以还得找视频教程学学脚本语言,[教程0](https://space.bilibili.com/267262953/#/),[教程1](https://www.bilibili.com/video/av21816585?from=search&seid=1131567582177017051),[教程2](https://www.imooc.com/u/279399/courses?sort=publish))
 
+[脚本参考教程](https://blog.csdn.net/alanzjl/article/details/50715870), [作者的github库](https://github.com/alanzjl/MyConsoleTools)
+
 ---
 
 2. 遇到的问题
