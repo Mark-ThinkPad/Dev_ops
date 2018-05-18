@@ -74,6 +74,13 @@
 
 ![给学长学姐看看效果图](http://static.zybuluo.com/Mark201802/s3qoru2ua25p32ilbbw5ec3b/image_1cdiab8ra1ff910lt3rl1hht9n49.png)
 
+- 按照要求修改后的自动上传的脚本
+
+![0](http://static.zybuluo.com/Mark201802/b3w9mm4pqerwhiooxrjy6ojd/image_1cdq3bc8119c4h9q1i3kcqhqfj1j.png)
+
+![1](http://static.zybuluo.com/Mark201802/upof3coa2rwmszsrhmqb79ap/image_1cdq32ouihukj6b157thum12ng9.png)
+
+![2](http://static.zybuluo.com/Mark201802/vw90g4m1iwuhood4jfevu9og/image_1cdq33gan30h1vkhkgd5cv1mn416.png)
 ---
 
 ### Part 2 : 遇到的问题
