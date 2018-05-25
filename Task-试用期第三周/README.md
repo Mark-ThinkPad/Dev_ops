@@ -1,6 +1,6 @@
 # 试用期第三周
 
-`working` `图片刷新速度看github服务器的脸色`
+`working` `图片刷新速度看github服务器的脸色` `ps1是powershell的脚本文件`
 
 ---
 
