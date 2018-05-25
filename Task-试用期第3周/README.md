@@ -12,10 +12,10 @@
 
 - 关于JS基础入门
 
-直接上图(源码在试用期第一周的文件夹里)
+直接上图(源码在[试用期第1周的文件夹里](https://github.com/Mark-ThinkPad/Dev_ops/tree/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC1%E5%91%A8))
 
-![1](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC%E4%B8%89%E5%91%A8/screenshot/1.png)
+![1](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC3%E5%91%A8/screenshot/1.png)
 
-![2](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC%E4%B8%89%E5%91%A8/screenshot/2.png)
+![2](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC3%E5%91%A8/screenshot/2.png)
 
-![3](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC%E4%B8%89%E5%91%A8/screenshot/3.png)
+![3](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC3%E5%91%A8/screenshot/3.png)
