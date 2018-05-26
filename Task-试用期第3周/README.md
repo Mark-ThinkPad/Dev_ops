@@ -51,3 +51,13 @@ elif delta < 0:
 elif delta > 0:
     print("方程有两个解，x1 = %.2f, x2 = %.2f"%((-b + sqrt(delta)) / (2 * a),(-b - sqrt(delta)) / (2 * a)))
 ```
+
+3. 安装beautifulsoup4的第三方库
+
+- 偷偷在windows平台搞了一下
+
+![4](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC3%E5%91%A8/screenshot/4.png)
+
+- 然后进Linux mint里面再操作一下
+
+![5]()
