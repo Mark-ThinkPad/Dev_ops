@@ -24,7 +24,7 @@
 
 1. Python开发环境的搭建（[教程](https://blog.csdn.net/u010159842/article/details/55260204)）
 
-2. 解一元二次方程(Python3.5.2)
+2. 解一元二次方程(Python3.5.2)([源文件](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC3%E5%91%A8/solveequations.py))
 
 ```python
 #solve equations 解方程(translated by YouDaoDict)
@@ -60,4 +60,32 @@ elif delta > 0:
 
 - 然后进Linux mint里面再操作一下
 
-![5]()
+![5](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC3%E5%91%A8/screenshot/5.png)
+
+---
+
+### Part 2 : 遇到的问题（全部已经解决）
+
+- Linux mint上有py2.7和py3.5，但是系统桌面环境需要用到py2.7，然而我选择用py3.5(不兼容上一个大版本)，那么配置开发环境和安装bs4第三方库的时候出现了多次忘记加3这个数字导致的尴尬场面（Ubuntu18.04已经不自带py2了)(manjora的安装包我已经准备好了，不玩桌面环境准备入坑窗口管理器了，计划在暑假有时间了再搞，现在学业为重)
+
+- 我记不起来了，搞py前面肯定有几次小问题的
+
+---
+
+### Part 3 : 本组感想
+
+- 我还是比较适合视频教程，干巴巴的一堆文字和一个在线代码编辑框有些令我不适...于是我选了中国大学mooc上的python视频教程，效果还是不错的
+
+- python的有些内容和c语言比较近似，所以很容易去理解
+
+---
+
+### Part 4 ： 下周计划
+
+- 不小心看到task-4了，爬虫走起
+
+---
+
+### Part 5 ： 相对学长学姐说的话
+
+- 有什么Linux发行版可以推荐的吗？debian系和非debian系都可以(deepin这个养老用的系统就算了，ubuntu免谈,linux mint正在用，我也不想kali学的好，局子进的早)
