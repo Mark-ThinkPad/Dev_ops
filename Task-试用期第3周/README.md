@@ -24,4 +24,4 @@
 
 1. Python开发环境的搭建（[教程](https://blog.csdn.net/u010159842/article/details/55260204)）
 
-2. 
+2. 解一元二次方程(Python3.5.2)
