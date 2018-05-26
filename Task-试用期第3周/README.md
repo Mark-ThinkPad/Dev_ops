@@ -19,3 +19,9 @@
 ![2](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC3%E5%91%A8/screenshot/2.png)
 
 ![3](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC3%E5%91%A8/screenshot/3.png)
+
+- 关于Python入门
+
+1. Python开发环境的搭建（[教程](https://blog.csdn.net/u010159842/article/details/55260204)）
+
+2. 
