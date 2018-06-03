@@ -14,6 +14,8 @@
 
 - 爬虫的代码(<font color="dc143c">我先老实交代了有看过别人的代码，但是读懂也是花了一些时间，总是发现有很多视频教程里没讲到的东西，然后又去一个一个查......</font>)
 
+这个四函数结构来自于[training/protraining/中国大学排名定向爬虫.py](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC4%E5%91%A8/training/protraining/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E5%AE%9A%E5%90%91%E7%88%AC%E8%99%AB.py)
+
 ```python
 # 你老婆的照片真好看
 import requests
@@ -71,5 +73,12 @@ main()
 
 ---
 
-### Part 4 ：咕咕咕
+### Part 4 : 下周计划
 
+- 更新一版全自主编写的爬虫
+
+---
+
+### Part 5 : 相对学长学姐说的话
+
+- 长大在线里面个个都是人才，说话又好听，我超喜欢在里面的
