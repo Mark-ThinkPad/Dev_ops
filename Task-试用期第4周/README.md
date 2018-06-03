@@ -57,3 +57,19 @@ main()
 
 ![心情复杂](https://github.com/Mark-ThinkPad/Dev_ops/blob/master/Task-%E8%AF%95%E7%94%A8%E6%9C%9F%E7%AC%AC4%E5%91%A8/screenshot/1.png)
 
+---
+
+### Part 2 : 遇到的问题
+
+- debug, debug, debug...最终以正常运行的状态提交上去(Python的debug有一种说不出来的感jio)
+
+---
+
+### Part 3 : 本周感想
+
+- 为什么会这样呢？去年第一次接触了Linux发行版，前段时间又匆匆学习了html,js,python的基本语法。这两件快乐的事情叠加在一起，而这两份快乐，带给我的是更的快乐。得到的，本应该是像梦境一般的时间...但是，为什么，我会变成这样的辣鸡萌新呢.....(打死白学家)
+
+---
+
+### Part 4 ：咕咕咕
+
