@@ -2,6 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 import bs4
+import os
      
 def getHTMLText(url):
     try:
@@ -12,24 +13,24 @@ def getHTMLText(url):
     except:
         return ""
      
-def fillUnivList(ulist, html):
+def fillUnivList(html):
+    ulist = []
     soup = BeautifulSoup(html, "html.parser")
-    for tr in soup.find('tbody').children:
-        if isinstance(tr, bs4.element.Tag):
-            tds = tr('td')
-            ulist.append([tds[0].string, tds[1].string, tds[3].string])
+    for tr in soup(class_='floor'):
+        comment = str(tr.td).replace(str(tr.blockquote), '').replace(str(tr.small), '')
+        ulist.append([comment])
+    return ulist
      
-def printUnivList(ulist, num):
-    tplt = "{0:^10}\t{1:{3}^10}\t{2:^10}"
-    print(tplt.format("排名","学校名称","总分",chr(12288)))
-    for i in range(num):
-        u=ulist[i]
-        print(tplt.format(u[0],u[1],u[2],chr(12288)))
+def printUnivList(ulist):
+    file = open("D://Github//Dev_ops//Task-试用期第4周//commits.txt", 'w+')
+    file.write('\n'.join('%s' % id for id in ulist))
+    file.close()
+    print("文件保存成功")
          
 def main():
-    uinfo = []
-    url = 'https://www.zuihaodaxue.cn/zuihaodaxuepaiming2016.html'
+    url = "https://bbs.hupu.com/20415703.html"
     html = getHTMLText(url)
-    fillUnivList(uinfo, html)
-    printUnivList(uinfo, 20) # 20 univs
+    ulist = fillUnivList(html)
+    printUnivList(ulist)
+
 main()
