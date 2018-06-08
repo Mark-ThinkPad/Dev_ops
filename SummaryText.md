@@ -95,7 +95,7 @@ git push
 
 ## Part 2 : The issues that I met
 
-- In fact, I met plenty of issues, just like bugs. But finally I dealt with them. The process was hard and tiresome sometimes. But a word said : No Pain, No Gain. These issues benefited myself a lot. I leaent something important from these.
+- In fact, I met plenty of issues, just like bugs. But finally I dealt with them. The process was hard and tiresome sometimes. But a word said : No Pain, No Gain. These issues benefited myself a lot. I learnt something important from these.
 
 ---
 
